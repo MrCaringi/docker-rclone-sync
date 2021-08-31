@@ -1,2 +1,2 @@
-# docker_rclone_sync
+# Docker RCLONE SYNC
 Docker Image for rclone sync tasks
